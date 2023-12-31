@@ -22,7 +22,7 @@ Core features of the app include:
 - JavaScript
 - Python
 - Firebase
-- PythonEverywhere
+- PythonAnywhere
 - Expo
 - Xcode/Android Studio
 - GitHub
