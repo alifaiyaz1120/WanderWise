@@ -25,7 +25,7 @@ Core features of the app include:
 - PythonAnywhere
 - Expo
 - Xcode/Android Studio
-- GitHub.
+- GitHub
 
 
 WanderWise is built using **React Native** in the frontend. This allows us to serve users with an Android and IOS compatible application with a user friendly and modern user interface. **Expo** was used to deploy our frontend and publish it for the public to access. 
