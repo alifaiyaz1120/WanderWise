@@ -69,6 +69,6 @@ npx expo start --offline
 
 
 ## Contributors 
-Ashok Surujdeo, Ali Faiyaz, Ashdeep Singh, Martin Mihaylov
+Ashok Surujdeo, Ali Faiyaz, Ashdeep Singh, Martin Mihaylov.
 
 Hunter College Capstone Project (09/12 - 12/23)
