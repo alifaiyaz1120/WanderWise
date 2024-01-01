@@ -38,7 +38,6 @@ Wanderwise also communicates with **Django's** REST framework to make all **API*
 
 
 ## Architecture Map
-![Untitled Notebook-4](https://github.com/Wander-Wise/WanderWise/assets/71999538/6ad6205b-2e0c-4773-8503-db2a1d4d1a86)
 <img width="1000" alt="Screenshot 2023-12-31 at 11 14 46 PM" src="https://github.com/alifaiyaz1120/WanderWise/assets/119764873/fbf394d1-0e8a-475c-8e90-7296922ce527">
 
 ## Run
